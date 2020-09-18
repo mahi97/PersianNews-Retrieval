@@ -1,4 +1,4 @@
-# ImageSegmentation
+# PersianNews Retrival
 ~ Image Segmentaion by Hidden Markon Models
 
 **Please Read the Report.pdf if you are interested in this project.**
