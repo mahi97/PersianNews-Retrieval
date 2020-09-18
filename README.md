@@ -1,5 +1,5 @@
 # PersianNews Retrival
-~ Image Segmentaion by Hidden Markon Models
+~ All sort of Retrival Process on already fetched Persian News 
 
 **Please Read the Report.pdf if you are interested in this project.**
 
