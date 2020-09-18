@@ -1,5 +1,5 @@
-# PersianNews Retrival
-~ All sort of Retrival Process on already fetched Persian News 
+# PersianNews Retrieval
+~ All sort of Retrieval Process on already fetched Persian News 
 
 **Please Read the Report.pdf if you are interested in this project.**
 
